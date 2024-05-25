@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
                    "lib/OFXClient.rb",
                    "lib/Statement.rb"]
   s.add_runtime_dependency "nokogiri",
-    ["= 1.6.7.2"]
+    ["= 1.16.5"]
   s.add_runtime_dependency "httpclient",
     ["= 2.7.1"]
   s.homepage    =
